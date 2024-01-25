@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "373830717279",
+    "project_id": "fodpanda",
+    "storage_bucket": "fodpanda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373830717279:android:0438d2dae1e6068d13f0ea",
+        "android_client_info": {
+          "package_name": "com.foodpandaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373830717279-cda7eph3n9nmfkgng2mc078jtg9enhl0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodpandaapp",
+            "certificate_hash": "bbe9b93c15ad4710e68e8aab15ce716f7836745b"
+          }
+        },
+        {
+          "client_id": "373830717279-k8dknd03lh26s4kb2sq97pqlla1gk8pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtNCoi0mxI4Xwbpg-rZ98sGFRGSDsNw4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373830717279-k8dknd03lh26s4kb2sq97pqlla1gk8pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
